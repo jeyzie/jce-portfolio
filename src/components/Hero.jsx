@@ -36,7 +36,7 @@ function Hero() {
         <div className="hero-buttons">
 
           <a href="#projects" className="btn-primary">
-            View My Projects →
+            View My Projects
           </a>
 
           <a href="#contact" className="btn-secondary">
