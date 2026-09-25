@@ -350,25 +350,16 @@ main {
 .code-box {
   position: absolute;
 
-  right: 5px;
-  top: 110px;
-
+  right: 58px;
+  top: 265px;
   padding: 12px 15px;
-
   background: rgba(255, 255, 255, 0.92);
-
   color: #222;
-
   font-family: monospace;
-
   font-size: 10px;
-
   line-height: 1.35;
-
   border-radius: 6px;
-
   z-index: 5;
-
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
 
@@ -404,8 +395,8 @@ main {
 .student-card {
   position: absolute;
 
-  right: 5px;
-  bottom: 20px;
+  right: 85px;
+  bottom: 1px;
 
   width: 125px;
 
@@ -442,8 +433,8 @@ main {
 .purple-lines {
   position: absolute;
 
-  right: 10px;
-  bottom: 20px;
+  right: 88px;
+  bottom: 9px;
 
   color: #8b5cf6;
 
