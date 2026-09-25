@@ -432,20 +432,15 @@ main {
 
 .purple-lines {
   position: absolute;
-
   right: 88px;
   bottom: 9px;
-
   color: #8b5cf6;
-
   font-size: 20px;
-
   font-weight: bold;
-
   line-height: 0.45;
-
   z-index: 7;
 }
+
 
 
 /* =========================
